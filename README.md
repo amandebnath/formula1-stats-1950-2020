@@ -10,10 +10,10 @@ A comprehensive data engineering and analytics project transforming raw Formula 
 This project focuses on the ETL (Extract, Transform, Load) process and visualization of seven decades of Formula 1 racing. I implemented a high-performance database schema to handle millions of data points, ensuring the final Power BI dashboard remains responsive and insightful.
 
 ## 🛠️ Tech Stack
-* **Database:** SQL Server (T-SQL, Views)
-* **ETL:** PowerShell & DBA Tools
+* **Database:** Microsoft SQL Server 2025
+* **ETL:** Windows PowerShell ISE & DBA Tools
 * **Optimization:** Clustered Columnstore Indexing
-* **BI & Viz:** Power BI (DAX, Data Modeling)
+* **BI & Viz:** Power BI
 
 ## ⚡ Technical Highlights
 * **High-Speed Ingestion:** Utilized PowerShell automation to bulk-import CSV data directly into SQL Server tables.
@@ -33,7 +33,7 @@ This project focuses on the ETL (Extract, Transform, Load) process and visualiza
 ---
 
 ## ⚙️ Setup & Execution
-1.  **Ingestion:** Use the PowerShell scripts to load the Kaggle CSV files into a SQL Server database.
+1.  **Ingestion:** Use the PowerShell scripts to load the CSV files into a SQL Server database.
 2.  **Transformation:** Execute the SQL scripts to generate the reporting views.
 3.  **Optimization:** Apply Columnstore index scripts to the results and lap times tables for performance.
 4.  **Reporting:** Connect Power BI to the SQL Views and refresh the data model.
