@@ -13,7 +13,7 @@ This project focuses on the ETL (Extract, Transform, Load) process and visualiza
 * **Database:** Microsoft SQL Server 2025
 * **ETL:** Windows PowerShell ISE & DBA Tools
 * **Optimization:** Clustered Columnstore Indexing
-* **BI & Viz:** Power BI
+* **BI & Visualization:** Power BI
 
 ## ⚡ Technical Highlights
 * **High-Speed Ingestion:** Utilized PowerShell automation to bulk-import CSV data directly into SQL Server tables.
