@@ -1,6 +1,6 @@
 # Formula 1 Historical Data Analysis (1950–2020)
 
-A comprehensive data engineering and analytics project transforming raw Formula 1 race data into actionable insights using a modern SQL-to-BI workflow.
+A comprehensive data engineering and analytics project transforming raw Formula 1 race data into actionable insights using a modern SQL Server-to-BI workflow.
 
 **Data Source:** [FIA F1 1950-2019 Dataset (Kaggle)](https://www.kaggle.com/datasets/aadiltajani/fia-f1-19502019-data)
 
