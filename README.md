@@ -1,13 +1,14 @@
 # Formula 1 Historical Data Analysis (1950–2020)
 
-A comprehensive data engineering and analytics project transforming raw Formula 1 race data into actionable insights using a modern SQL-to-BI workflow.
+A comprehensive data engineering and analytics project transforming raw Formula 1 race data into actionable insights using a modern SQL Server-to-BI workflow.
 
 **Data Source:** [FIA F1 1950-2019 Dataset (Kaggle)](https://www.kaggle.com/datasets/aadiltajani/fia-f1-19502019-data)
 
 ---
 
-## 🚀 Project Overview
-This project focuses on the ETL (Extract, Transform, Load) process and visualization of seven decades of Formula 1 racing. I implemented a high-performance database schema to handle millions of data points, ensuring the final Power BI dashboard remains responsive and insightful.
+## 📄 Executive Summary
+
+This project delivers an end-to-end data engineering and analytics solution for seven decades of Formula 1 historical data. By transforming raw Kaggle datasets into a high-performance **SQL Server 2025** environment, I built a scalable pipeline that handles millions of records with sub-second latency. Key achievements include automating complex ETL workflows via **PowerShell**, optimizing storage through **Columnstore Indexing**, and engineering an interactive **Power BI** suite that uncovers deep insights into driver performance and constructor trends from 1950 to 2020.
 
 ## 🛠️ Tech Stack
 * **Database:** Microsoft SQL Server 2025
