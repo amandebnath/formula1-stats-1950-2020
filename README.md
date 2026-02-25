@@ -34,7 +34,7 @@ This project delivers an end-to-end data engineering and analytics solution for 
 
 ## Live Preview
 
-URL: [Click Here](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fapp.powerbi.com%2Fview%3Fr%3DeyJrIjoiZDlkZjU3OTktNDI3My00NDVkLWFmN2UtMDkyZmU3YTE5MjY1IiwidCI6IjdkZjczZTQwLWRlNzktNDk1MC1iYWQzLTkwODkwNTA3ZTM5OCIsImMiOjJ9&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-ODAxM2M0MzctNjViZi00OGM2LWE0MTUtM2ZkM2VmMTBhNjM3XzEwMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B4UIW0nhxQeWs%2BJ7Exyc6Lw%3D%3D)
+URL: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZDlkZjU3OTktNDI3My00NDVkLWFmN2UtMDkyZmU3YTE5MjY1IiwidCI6IjdkZjczZTQwLWRlNzktNDk1MC1iYWQzLTkwODkwNTA3ZTM5OCIsImMiOjJ9)
 
 ---
 
